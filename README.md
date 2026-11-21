@@ -12,10 +12,11 @@ Open http://localhost:8000. Do not open index.html directly: browsers block loca
 
 ## Files
 
-- `index.html`: page structure
-- `style.css`: appearance and responsive layout
-- `app.js`: shuffle, detail view, related collections and local curation
-- `artwork.json`: titles, source filenames, collections, working tags and derived colors
+- `index.html`: page shell and nav
+- `style.css`: appearance and responsive layout (one file; change `--typeface` to swap the font)
+- `app.js`: hash routing and rendering (`#/`, `#/paintings`, `#/practice`, `#/objects`, `#/work/<id>`, `#/about`, `#/stories`, `#/edit`)
+- `artwork.json`: titles, sections, series, source filenames, collections, working tags and derived colors, plus the `home` list of 12 ids
+- `content.json`: all site text (home intro, series intros, stories, About). Anything set to `TODO` stays hidden
 - `photos/`: 284 optimized WebP artwork files
 - `.nojekyll`: static GitHub Pages support
 
@@ -23,7 +24,7 @@ No Dropbox token or account credential is required to serve the site. All paths 
 
 ## Editing and curation
 
-Edit mode stores removals only in the current browser. Visitors cannot change the published site. Export artwork.json after curating, replace the repository's artwork.json and commit to publish the cull. Originals are never deleted. Existing saved changes are local to that browser.
+Open `#/edit` (not linked in the nav) to remove works. Removals are stored only in the current browser. Export artwork.json, replace the repository's artwork.json and commit to publish the cull. Originals are never deleted.
 
 ## Artwork scope
 

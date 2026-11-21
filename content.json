@@ -1,0 +1,124 @@
+{
+  "home": {
+    "intro": "TODO"
+  },
+  "sections": {
+    "paintings": {
+      "title": "Paintings",
+      "series": [
+        {
+          "name": "Narrative Gouache 2026",
+          "intro": "TODO"
+        },
+        {
+          "name": "Large Paintings",
+          "intro": "TODO"
+        },
+        {
+          "name": "Lincoln Paintings",
+          "intro": "TODO"
+        },
+        {
+          "name": "Early Paintings 1988–2010",
+          "intro": "TODO"
+        }
+      ]
+    },
+    "practice": {
+      "title": "Practice",
+      "series": [
+        {
+          "name": "31-Day Portrait Challenge",
+          "intro": "TODO"
+        },
+        {
+          "name": "26.2 Marathon Painting Challenge",
+          "intro": "TODO"
+        },
+        {
+          "name": "Morning Sketches",
+          "intro": "TODO"
+        }
+      ]
+    },
+    "objects": {
+      "title": "Objects & Murals",
+      "series": [
+        {
+          "name": "Hand-Painted Ceramics",
+          "intro": "TODO"
+        },
+        {
+          "name": "Painted Furniture",
+          "intro": "TODO"
+        },
+        {
+          "name": "Banners 2016",
+          "intro": "TODO"
+        },
+        {
+          "name": "Little Frosty Art and Decor for Children",
+          "intro": "TODO"
+        },
+        {
+          "name": "Murals",
+          "intro": "TODO"
+        }
+      ]
+    }
+  },
+  "stories": {
+    "page_intro": "TODO",
+    "works": {
+      "lf-51501b1ff85b": "TODO",
+      "lf-6cb39c6981ee": "TODO",
+      "lf-56b4796fdb73": "TODO",
+      "lf-2cb54a606f29": "TODO",
+      "lf-a3c25b7dd6e4": "TODO",
+      "lf-23d177e19621": "TODO",
+      "lf-d4e2f05e1c7e": "TODO",
+      "lf-e15c54afbf52": "TODO",
+      "lf-37f839cf154e": "TODO",
+      "lf-6f57be83a10c": "TODO",
+      "lf-b81a99535c2b": "TODO",
+      "lf-7603a6c423f6": "TODO",
+      "lf-64934710ae81": "TODO",
+      "lf-c230d28b1d02": "TODO",
+      "lf-e4b2fc9ea9d7": "TODO",
+      "lf-3c5b019997d2": "TODO",
+      "lf-9c6b21d199a4": "TODO",
+      "lf-4d7adc7e2958": "TODO",
+      "lf-72c82e81a26e": "TODO",
+      "lf-d6f84bf3f978": "TODO",
+      "lf-3062a25dc75c": "TODO",
+      "lf-b4ee9622f353": "TODO",
+      "lf-f3b0ef745eb3": "TODO",
+      "lf-90420a459780": "TODO"
+    }
+  },
+  "about": {
+    "title": "A Language of My Own",
+    "label": "Artist statement",
+    "statement": [
+      "I have spent my life exploring the possibilities of a line, a shape, and a color.",
+      "There is something extraordinary about how these simple elements can come together to create a feeling, tell a story, or express something for which there are no words. That fascination has never left me. It is at the heart of everything I create.",
+      "My work has a visual personality that is distinctly my own. I recognize it in the character of a line, the relationships between colors, the shapes I choose, and the way a composition comes together. It is more than a style. It is a way of seeing, a sensibility that has traveled with me through decades of artistic exploration.",
+      "As my life has unfolded, so has my work.",
+      "My early paintings were filled with experimentation and discovery. As a young mother, my work became exuberant, playful, and full of color. During the illness and loss of my parents, my paintings grew darker and more contemplative. And in the years that followed, color returned with renewed energy, accompanied by a deeper interest in imagination, narrative, and storytelling.",
+      "These works may express different moments in my life, but they speak the same visual language. The line, the color, the shapes, and the personality remain unmistakably connected.",
+      "I often think about painting in musical terms. Music moves through different modes, rhythms, and moods, yet a composer’s voice remains recognizable. A melody can be joyful or melancholy, quiet or exuberant, and still belong to the same composer. I see my paintings in much the same way. Each carries its own emotional character, yet together they form a larger composition.",
+      "My artistic practice has extended beyond canvas into ceramics, furniture, and monumental murals. I am fascinated by how a visual idea can move across materials and scale while retaining its identity. Whether a painting occupies a small surface or an entire wall, the underlying language remains my own.",
+      "Art-making, for me, is a deeply personal and ongoing exploration. It is how I investigate the world, respond to life, and give form to what I feel and observe. I am continually drawn to the possibilities of color, the energy of a line, and the expressive power of shape.",
+      "But the experience of art does not end with the artist.",
+      "Like a beautiful piece of music, I hope my work reaches people in ways that cannot always be explained. I hope it awakens memories, invites curiosity, brings joy, offers comfort, or simply makes someone feel something.",
+      "My paintings are expressions of my own spirit, but their greatest possibility lies in connecting with someone else’s.",
+      "The work continues to evolve, as I do. And through it all, I remain fascinated by how much can be said with a line, a shape, and a color."
+    ],
+    "bio": "TODO",
+    "studio_photo": "TODO",
+    "music": "TODO",
+    "chicago": "TODO",
+    "contact": "TODO",
+    "instagram": "TODO"
+  }
+}

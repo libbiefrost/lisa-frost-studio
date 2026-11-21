@@ -1,3 +1,24 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Lisa Frost</title><link rel="stylesheet" href="style.css"><script src="app.js" defer></script></head>
-<body><main><header><div><h1>Lisa Frost</h1></div><nav><button id="shuffle">Shuffle</button><button id="edit">Edit</button><button id="about">About</button></nav></header><aside id="about-panel" hidden><p>156 works from the studio archive. An open-ended collection, arranged by chance.</p><p>Collections follow the studio archive. Tags and colors are working labels, ready to refine. All metadata lives in artwork.json. Edit that file to create your own collections and tags.</p><a href="artwork.json" download>Download artwork.json ↓</a></aside><div id="gallery" aria-live="polite">Loading artwork...</div><footer>Artwork by Lisa Frost <a href="artwork.json" download>artwork.json ↓</a></footer></main></body></html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lisa Frost</title>
+<link rel="stylesheet" href="style.css?v=2">
+<script src="app.js?v=2" defer></script>
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="#/">Lisa Frost</a>
+  <nav aria-label="Main">
+    <a href="#/paintings" data-nav="paintings">Paintings</a>
+    <a href="#/practice" data-nav="practice">Practice</a>
+    <a href="#/objects" data-nav="objects">Objects &amp; Murals</a>
+    <a href="#/about" data-nav="about">About</a>
+  </nav>
+</header>
+<main id="view" tabindex="-1">Loading artwork...</main>
+<footer class="site-footer">Artwork by Lisa Frost</footer>
+<noscript><p class="noscript">This site needs JavaScript to show the artwork.</p></noscript>
+</body>
+</html>
