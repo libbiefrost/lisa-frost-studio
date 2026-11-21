@@ -112,7 +112,8 @@ function workPage(id) {
 
 function aboutPage() {
   const about = content.about, box = make('div', null, 'prose');
-  box.append(make('p', about.label, 'label'), make('h1', about.title));
+  if (filled(about.label)) box.append(make('p', about.label, 'label'));
+  box.append(make('h1', about.title));
   for (const p of about.statement || []) box.append(make('p', p));
   // Empty slots stay hidden until content.json has a real value for them.
   const slots = [
