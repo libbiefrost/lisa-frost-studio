@@ -1,7 +1,5 @@
 # Lisa Frost
 
-> Repository setup is in progress. The artwork assets and metadata have not yet been uploaded here. The complete local handoff includes `photos/` and `artwork.json`; add those before deploying this repository.
-
 A minimal, static artist portfolio. White background, black hairline rules, shuffled artwork and related collections. No framework, service account, paid service or build step.
 
 ## Run locally
@@ -18,7 +16,7 @@ Open http://localhost:8000. Do not open index.html directly: browsers block loca
 - `style.css`: appearance and responsive layout
 - `app.js`: shuffle, detail view, related collections and local curation
 - `artwork.json`: titles, source filenames, collections, working tags and derived colors
-- `photos/`: 156 optimized WebP artwork files
+- `photos/`: 284 optimized WebP artwork files
 - `.nojekyll`: static GitHub Pages support
 
 No Dropbox token or account credential is required to serve the site. All paths are relative so this can move to a custom domain later.
@@ -29,7 +27,11 @@ Edit mode stores removals only in the current browser. Visitors cannot change th
 
 ## Artwork scope
 
-This first pass contains 156 works selected from the supplied Dropbox studio archive. No artwork from the prior Drive/Instagram gallery is used. Studio folder names supply collections. Keyword and color tags are provisional, not artist-verified. Brand files, resumes, fonts, styled-room mockups, repeated views and photos centered on people were excluded. Alternate views and HEIC files remain out of this first pass. Videos are not included yet: they need a separate process-only/no-overlay review before conversion. Text painted as part of an artwork is preserved; added social text overlays are not used.
+This package was synced against the supplied Dropbox archive on November 21, 2026. It contains 284 selected artwork views: the original 156 plus 128 new views. All gallery artwork is Dropbox-sourced. No artwork from the prior Drive/Instagram gallery is used. Collection names come from studio folders. Keyword and color tags are provisional, not artist-verified.
+
+This is a curated gallery, not the full Dropbox. Brand/admin files, styled-room displays, repeated/alternate views and photos centered on people are excluded. HEIC-only files and videos remain outside the gallery. Images of people depicted in artwork are included. New art includes sketches, paintings, ceramics, furniture and children's art. Original embedded text remains part of the artwork.
+
+`source-documents/` contains the two Word artist/brand statements from Dropbox for editing reference. They have not been inserted into the live page or rewritten. `dropbox-inventory.json` inventories all 1,480 current archive files; it does not bundle all original assets. `DROPBOX-SYNC.json` records additions, exclusions and exact-byte renames. Existing image IDs were preserved and renamed source paths were updated.
 
 Only resized web copies are included. Copyright remains with the artist. No open-source license is granted to the artwork.
 

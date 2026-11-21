@@ -1,0 +1,266 @@
+{
+  "snapshot_date": "2026-11-21",
+  "previous_snapshot_date": "2026-11-15",
+  "added_paths": 159,
+  "same_path_changes": 0,
+  "removed_paths": [
+    "Early_Works/Hand-Painted Ceramics/Bunny_Platter.png",
+    "Early_Works/Hand-Painted Ceramics/Snowman PLatter.jpg",
+    "Early_Works/Hand-Painted Ceramics/Crimson_Whimsy_Dishes",
+    "Early_Works/Hand-Painted Ceramics/Thanksgiving Platter.jpg",
+    "Early_Works/Painted_Furniture/The_Orchard_Armoite_2005B.png",
+    "Early_Works/Hand-Painted Ceramics/Hand-Painted Rose Swirl Ceramic Vase-2.png"
+  ],
+  "exact_byte_renames": [
+    {
+      "old": "Early_Works/Hand-Painted Ceramics/Bunny_Platter.png",
+      "new": "Early_Works/Hand-Painted Ceramics/Z_Bunny_Platter.png"
+    },
+    {
+      "old": "Early_Works/Hand-Painted Ceramics/Snowman PLatter.jpg",
+      "new": "Early_Works/Hand-Painted Ceramics/Z_Snowman PLatter.jpg"
+    },
+    {
+      "old": "Early_Works/Hand-Painted Ceramics/Hand-Painted Rose Swirl Ceramic Vase-2.png",
+      "new": "Early_Works/Hand-Painted Ceramics/D_Rose Garden Vase.png"
+    },
+    {
+      "old": "Early_Works/Hand-Painted Ceramics/Thanksgiving Platter.jpg",
+      "new": "Early_Works/Hand-Painted Ceramics/Z_Thanksgiving Platter.jpg"
+    }
+  ],
+  "new_gallery_images": 128,
+  "total_gallery_images": 284,
+  "new_gallery_source_paths": [
+    "MorningSketches/Nicole.jpg",
+    "MorningSketches/Sicily.JPG",
+    "MorningSketches/IMG_3278.jpg",
+    "MorningSketches/Bourdain.jpg",
+    "MorningSketches/Jury Duty.jpg",
+    "MorningSketches/MacMiller.jpg",
+    "MorningSketches/at the DMV.JPG",
+    "MorningSketches/Kate Spade.jpg",
+    "MorningSketches/maddie_baby.jpg",
+    "MorningSketches/Dad and Mom.JPG",
+    "MorningSketches/Be Good Jack.png",
+    "MorningSketches/Figure Study.jpg",
+    "MorningSketches/Tinas_Friend.png",
+    "MorningSketches/Women Artists.JPG",
+    "MorningSketches/gone too soon.jpg",
+    "MorningSketches/Figure Study2.JPG",
+    "MorningSketches/Figure Study3.jpg",
+    "MorningSketches/slipping away.png",
+    "MorningSketches/LIbbie and Mom.JPG",
+    "MorningSketches/Maddies_Friend.PNG",
+    "MorningSketches/Figure Study 4.jpg",
+    "MorningSketches/working it out.png",
+    "MorningSketches/Art_leadership.jpg",
+    "Lincoln_Paintings/Lincoln_ 2019.png",
+    "Large Paintings/For the Symphony.png",
+    "MorningSketches/I will carry you .JPG",
+    "MorningSketches/G.Washington.Ipad.jpg",
+    "MorningSketches/Future Plant Lover.JPG",
+    "MorningSketches/My friend in Sicily.JPG",
+    "Large Paintings/Spot One_30x30_2019.png",
+    "Large Paintings/Aldeen All day_30x30.png",
+    "MorningSketches/Queen Rockie and Jack.jpg",
+    "Large Paintings/Flowers For Her_2014B.png",
+    "Large Paintings/Flowers for Her_2014C.png",
+    "Large Paintings/Flowers for her_2014D.png",
+    "Large Paintings/Flowers for Her_2014E.png",
+    "Large Paintings/Flowers for her_2014F.png",
+    "Large Paintings/Flowers for Her 2014F.png",
+    "Large Paintings/Flowers for Her_2014G.png",
+    "MorningSketches/facial structure Study.jpg",
+    "Large Paintings/Passenger_Seat_Oil_2015.png",
+    "MorningSketches/Joan McHugh Book concept.png",
+    "Large Paintings/Between Tides 24x36_2021.png",
+    "MorningSketches/Tuxedo Cat Birthday Portrait.png",
+    "Large Paintings/The_Grand_Harvest_48x72_2020A.png",
+    "Large Paintings/THree Blooms, One Rhythm_2001.png",
+    "Early_Works/Painted_Furniture/B_Frenchy_ChairA.png",
+    "MorningSketches/My Time_ Morning Mug and Notes.png",
+    "Large Paintings/Weird_Surreal_Dream_as_theater.png",
+    "Large Paintings/Where Stillness Moves_Oil_2020.png",
+    "Early_Works/Painted_Furniture/C_Maddies_RockerA.png",
+    "Early_Works/Hand-Painted Ceramics/Z_Heart Platter.jpg",
+    "Early_Works/Early Paintings 1988-2010/Topsy_Turvy.png",
+    "Early_Works/Early Paintings 1988-2010/Barba Three.png",
+    "Early_Works/Hand-Painted Ceramics/D_Beef-A-Roo Mug.png",
+    "Early_Works/Early Paintings 1988-2010/Hold On_2011.png",
+    "Large Paintings/Three Girls with Dreams_OIl_ 2021..png",
+    "Early_Works/Painted_Furniture/Rooster_Toddler Chair.png",
+    "Early_Works/Hand-Painted Ceramics/Z_Pumpkin_Platter.jpg",
+    "Early_Works/Hand-Painted Ceramics/B_Frosty Dip SetA.png",
+    "Little Frosty_Art and Decor for Children/Guitar3844.jpg",
+    "Little Frosty_Art and Decor for Children/Boy Banner.jpg",
+    "Early_Works/Hand-Painted Ceramics/D_Frosty_Swirl_Mug.png",
+    "Early_Works/Early Paintings 1988-2010/Ties that bind.png",
+    "Early_Works/Early Paintings 1988-2010/Libbie sipping.png",
+    "Little Frosty_Art and Decor for Children/Girl Banner.JPG",
+    "Early_Works/Hand-Painted Ceramics/B_Happy Hour Dishes.png",
+    "Early_Works/Painted_Furniture/E_Gold Pedal Party SetA.png",
+    "Early_Works/Early Paintings 1988-2010/Fresh Air_40x30.png",
+    "Early_Works/Early Paintings 1988-2010/Hail Holy Queen.png",
+    "Early_Works/Early Paintings 1988-2010/Batik_HighSchool.png",
+    "Little Frosty_Art and Decor for Children/Frog Hop IIIA.png",
+    "Early_Works/Hand-Painted Ceramics/D_ Frosty Ceramic Mug.png",
+    "Early_Works/Hand-Painted Ceramics/D_Rose Garden Platter.png",
+    "Early_Works/Hand-Painted Ceramics/Candy_dish_HalloweenA.png",
+    "Early_Works/Early Paintings 1988-2010/Pencil.HighSchool.JPG",
+    "Early_Works/Early Paintings 1988-2010/Madonna and Child.png",
+    "Early_Works/Early Paintings 1988-2010/Pear_Triptych_2003.png",
+    "Early_Works/Early Paintings 1988-2010/The JOY between us.png",
+    "Little Frosty_Art and Decor for Children/Princess Castle.JPG",
+    "Early_Works/Early Paintings 1988-2010/J_Geddes_18x24_2007.png",
+    "Little Frosty_Art and Decor for Children/Once-Upon_a_Time.jpg",
+    "Early_Works/Early Paintings 1988-2010/Design Study_College.png",
+    "Early_Works/Early Paintings 1988-2010/The Art Of Listening.png",
+    "Early_Works/Early Paintings 1988-2010/Chorus of Grace_2003.png",
+    "Little Frosty_Art and Decor for Children/Butterfly-_Andrea.jpg",
+    "Early_Works/Hand-Painted Ceramics/F_FrostyHeart_Platter_14\".png",
+    "Early_Works/Early Paintings 1988-2010/GraphicWashHighSchool.JPG",
+    "Early_Works/Painted_Furniture/D_Birthday Cake Toddler ChairA.png",
+    "Early_Works/Early Paintings 1988-2010/Self_Potrait_Hope-8x10.png",
+    "Early_Works/Early Paintings 1988-2010/Love in full view_1998.png",
+    "Early_Works/Early Paintings 1988-2010/Shoemaker_12 Paintings.png",
+    "Early_Works/Early Paintings 1988-2010/Already Becoming_1996A.png",
+    "Little Frosty_Art and Decor for Children/Cupcake Puffy White.jpg",
+    "Early_Works/Hand-Painted Ceramics/D_Roses_Large Dramatic_Bowl.png",
+    "Early_Works/Hand-Painted Ceramics/E_Pedal and Scroll Urn_10\"A.png",
+    "Early_Works/Hand-Painted Ceramics/F_Frosty_Pumpkin_Platter14\".png",
+    "Early_Works/Early Paintings 1988-2010/Gesture Drawing College.JPG",
+    "Early_Works/Early Paintings 1988-2010/Self_Portrait_I see you.png",
+    "Early_Works/Early Paintings 1988-2010/The Little Bird Told Me.png",
+    "Little Frosty_Art and Decor for Children/Dream_Lion_HUGE_FILE.tif",
+    "Early_Works/Early Paintings 1988-2010/Spotted a Cardinal Today.png",
+    "Little Frosty_Art and Decor for Children/Teaching in the 90s_A.jpg",
+    "Early_Works/Hand-Painted Ceramics/C_Cheerful Hand-Painted Bowls.png",
+    "Little Frosty_Art and Decor for Children/Princess Banner Blonde.jpg",
+    "Little Frosty_Art and Decor for Children/Cupcake Puffy Monogram.jpg",
+    "Early_Works/Early Paintings 1988-2010/Pencil Drawing High school.JPG",
+    "Early_Works/Early Paintings 1988-2010/My first oil painting_1991.png",
+    "Early_Works/Early Paintings 1988-2010/Garden In Full Swing_40x30.png",
+    "Little Frosty_Art and Decor for Children/Sofias Wonderful WorldB.png",
+    "Early_Works/Hand-Painted Ceramics/Cookies for Santa Plate and Mug.png",
+    "Little Frosty_Art and Decor for Children/Create-Your_World_%2BBow.jpg",
+    "Little Frosty_Art and Decor for Children/Princess Banner Brunette.jpg",
+    "Early_Works/Early Paintings 1988-2010/Self_Potrait_Surrealism_1988.JPG",
+    "Early_Works/Hand-Painted Ceramics/Handbuilt_College_Sculptural Bowl.png",
+    "Early_Works/Early Paintings 1988-2010/Joyful Brothers in Plaid Shirts.png",
+    "Early_Works/Early Paintings 1988-2010/Through The Woods_ChicagoInstall.png",
+    "Early_Works/Hand-Painted Ceramics/A_Vibrant_Folk-Art Pitcher Collection.png",
+    "Early_Works/Early Paintings 1988-2010/Before there was Jack _40x30_2003.png",
+    "Early_Works/Early Paintings 1988-2010/Just Between Us_Acrylic on Canvas.png",
+    "Little Frosty_Art and Decor for Children/Home Sweet Frosting_ 2008_30x40.png",
+    "Early_Works/Hand-Painted Ceramics/Silvestri 2012 2012-10-29 at 4.58.03 PM.png",
+    "Early_Works/Early Paintings 1988-2010/Smiling Mother in Ornate Gold Frame.png",
+    "Early_Works/Hand-Painted Ceramics/C_ Cheerful Hand-Painted Polka Dot Bowls-1.png",
+    "Early_Works/Painted_Furniture/I Heard it through the Grapevine_endtable_1996.png",
+    "Early_Works/Early Paintings 1988-2010/Joyful Mother-Daughter Impasto Portrait.png",
+    "Early_Works/Early Paintings 1988-2010/A. I drew this in 5th grade. Porche.1983.png",
+    "Early_Works/Early Paintings 1988-2010/Acrylic Portrait of Martin Luther King Jr.png"
+  ],
+  "new_images_not_in_gallery": [
+    {
+      "source_path": "Large Paintings/Flowers For Her Exhibit_2014.png",
+      "reason": "contact sheet of individual works"
+    },
+    {
+      "source_path": "Large Paintings/The_Grand_Harvest_48x72_2020B.png",
+      "reason": "alternate view"
+    },
+    {
+      "source_path": "Early_Works/Painted_Furniture/B_Frenchy_ChairB.png",
+      "reason": "alternate view"
+    },
+    {
+      "source_path": "Early_Works/Painted_Furniture/B_Frenchy_ChairC.png",
+      "reason": "alternate view"
+    },
+    {
+      "source_path": "Early_Works/Painted_Furniture/C_Maddies_RockerB.png",
+      "reason": "alternate view"
+    },
+    {
+      "source_path": "Early_Works/Painted_Furniture/C_Maddies_RockerC (1).png",
+      "reason": "alternate view"
+    },
+    {
+      "source_path": "Early_Works/Hand-Painted Ceramics/B_Frosty_Dip_SetB.png",
+      "reason": "alternate view"
+    },
+    {
+      "source_path": "Early_Works/Painted_Furniture/E_Gold Pedal Party SetB.png",
+      "reason": "alternate view"
+    },
+    {
+      "source_path": "Early_Works/Hand-Painted Ceramics/Candy_Dish_HalloweenB.png",
+      "reason": "alternate view"
+    },
+    {
+      "source_path": "Early_Works/Hand-Painted Ceramics/Crimson_Whimsy_DishesA.png",
+      "reason": "styled setting"
+    },
+    {
+      "source_path": "Early_Works/Hand-Painted Ceramics/B_Happy Hour Dishes (1).png",
+      "reason": "alternate view"
+    },
+    {
+      "source_path": "Little Frosty_Art and Decor for Children/Magic_Apron_2006.jpg",
+      "reason": "people-centered photo"
+    },
+    {
+      "source_path": "Early_Works/Painted_Furniture/D_Birthday Cake Toddler ChairB.png",
+      "reason": "alternate view"
+    },
+    {
+      "source_path": "Early_Works/Early Paintings 1988-2010/Already Becoming_1996B.png",
+      "reason": "alternate view with inscription"
+    },
+    {
+      "source_path": "Early_Works/Hand-Painted Ceramics/E_Pedal and Scroll Urn_10\"B.png",
+      "reason": "alternate view"
+    },
+    {
+      "source_path": "Early_Works/Hand-Painted Ceramics/E_Pedal and Scroll Urn_10\"C.png",
+      "reason": "alternate view"
+    },
+    {
+      "source_path": "Lincoln_Paintings/Framed Grayscale Portrait of Abraham Lincoln.png",
+      "reason": "alternate framed view"
+    },
+    {
+      "source_path": "Little Frosty_Art and Decor for Children/Sofia's Wonderful WorldA.png",
+      "reason": "alternate view"
+    },
+    {
+      "source_path": "Little Frosty_Art and Decor for Children/Cupcake Puffy White and Pink.jpg",
+      "reason": "alternate view"
+    },
+    {
+      "source_path": "Early_Works/Hand-Painted Ceramics/A_Vibrant_Folk_Ceramic Pitcher Collection.png",
+      "reason": "alternate view"
+    },
+    {
+      "source_path": "Little Frosty_Art and Decor for Children/Frog Hop III_Deisgned for preschool.png",
+      "reason": "alternate view"
+    },
+    {
+      "source_path": "Little Frosty_Art and Decor for Children/Whimsical Little Frosty Room Display.png",
+      "reason": "styled room display"
+    },
+    {
+      "source_path": "Early_Works/Hand-Painted Ceramics/A_Vibrant Folk Art Ceramic Pitcher Collection.png",
+      "reason": "alternate view"
+    },
+    {
+      "source_path": "Early_Works/Early Paintings 1988-2010/Framed Grayscale Portrait of Abraham Lincoln.png",
+      "reason": "duplicate framed view in another folder"
+    },
+    {
+      "source_path": "Early_Works/Hand-Painted Ceramics/C_Cheerful Hand-Painted Ceramic Bowl Collection-2.png",
+      "reason": "alternate view"
+    }
+  ]
+}
